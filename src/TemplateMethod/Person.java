@@ -2,8 +2,6 @@ package TemplateMethod;
 
 public abstract  class Person {
 
-	//주석 테스트
-	
 	void readyToBattle(){
 		startTraning();
 		prepareWeapon();
