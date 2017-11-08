@@ -2,7 +2,6 @@ package TemplateMethod;
 
 public abstract  class Person {
 
-	
 	void readyToBattle(){
 		startTraning();
 		prepareWeapon();
